@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1538860590"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -XX -k-framework -kCocoa -l -vewnhibq -Fu/Users/rorden/lazarus/lcl/units/x86_64-darwin/cocoa -Fu/Users/rorden/lazarus/lcl/units/x86_64-darwin -Fu/Users/rorden/lazarus/components/lazutils/lib/x86_64-darwin -Fu/Users/rorden/lazarus/packager/units/x86_64-darwin -Fu/Users/rorden/Documents/pas/biquad/ -o/Users/rorden/Documents/pas/biquad/biquad_filter -dLCL -dLCLcocoa biquad_filter.lpr"/>
+</CONFIG>
